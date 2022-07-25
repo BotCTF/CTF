@@ -1,4 +1,9 @@
 # Bot CTF Telegram
+## Play Here
+<p>
+    <a href="https://t.me/ctfan_bot" target="blank"><img src="https://img.shields.io/badge/Bot CTF Telegram-20302f?style=flat&logo=telegram" /></a>
+</p>
+
 ## List Challenges
 ### Cryptography
  - [From 1988 To 2020](https://github.com/BotCTF/CTF/tree/main/Crypto/From%201988%20To%202020)
